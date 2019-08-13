@@ -1,9 +1,9 @@
 Ingrediants: 
-	150-200g Barrilla Pasta
-	3/4 tomato's (romano)
-	ample cheess - Parmigiano Reggiano
-	rock salt
-	1/2 onion
+	- 150-200g Barrilla Pasta
+	- 3/4 tomato's (romano)
+	- ample cheess - Parmigiano Reggiano
+	- rock salt
+	- 1/2 onion
 
 Directions:
 	1. Begin with boiling water in a pasta pot (see box for duration)
